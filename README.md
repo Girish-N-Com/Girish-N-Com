@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Girish-N-Com
+- 👋 Hi, I’m Girish Nair
 - 👀 I’m interested in building and testing software
 - 🌱 I’m currently learning AZ-104
 - 💞️ I’m looking to collaborate on python projects for development or testing
